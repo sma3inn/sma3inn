@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sma3inn
 - 👀 I’m interested in AI and Coding.
-- 🌱 I’m currently learning JAVA, C#/C++ and Python.
+- 🌱 I’m currently learning Machine learning, deep learning, JAVA, C#/C++ and Python.
 - 📫 How to reach me isma.kabbaj@hotmail.com
 
 <!---
